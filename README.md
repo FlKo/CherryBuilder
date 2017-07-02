@@ -1,12 +1,12 @@
-<table>
+<table border="0">
   <tr>
     <td>
         <img src="img/cherrybuilder_128.png">
     </td>
     <td>
-        <font size="6">
+        <strong>
             CherryBuilder
-        </font>
+        </strong>
         <br>
         <font size="3">
             Documentation and Issue Tracker
