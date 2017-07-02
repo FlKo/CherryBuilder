@@ -1,5 +1,5 @@
 <section>
-<table border="0">
+<table border="0" style="width:100%">
   <tr>
     <td>
         <img src="img/cherrybuilder_128.png">
