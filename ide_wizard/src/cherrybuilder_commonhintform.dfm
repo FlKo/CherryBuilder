@@ -1,0 +1,39 @@
+object CommonHintForm: TCommonHintForm
+  Left = 0
+  Top = 0
+  BorderStyle = bsNone
+  Caption = 'CommonHintForm'
+  ClientHeight = 45
+  ClientWidth = 255
+  Color = 14811135
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  FormStyle = fsStayOnTop
+  OldCreateOrder = False
+  OnShow = FormShow
+  PixelsPerInch = 96
+  TextHeight = 13
+  object pbHintForm: TPaintBox
+    AlignWithMargins = True
+    Left = 1
+    Top = 1
+    Width = 253
+    Height = 43
+    Margins.Left = 1
+    Margins.Top = 1
+    Margins.Right = 1
+    Margins.Bottom = 1
+    Align = alClient
+    OnPaint = pbHintFormPaint
+    ExplicitHeight = 38
+  end
+  object tiKeyActivity: TTimer
+    Interval = 10
+    OnTimer = tiKeyActivityTimer
+    Left = 8
+    Top = 8
+  end
+end
