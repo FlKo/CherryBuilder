@@ -6,8 +6,10 @@ Welcome to *CherryBuilder - The productivity extension for C++Builder*
 
 ---
 
-Here you will find the complete sources for a complete new code completion implementation approach
+Here you will find the complete sources for a new code completion implementation approach
 for _C++Builder®_, based on _Universal Ctags_.
+
+It has been developed with C++Builder 10.2 _Tokyo_ but should be usable with any more-or-less recent version.
 
 It's main intention was, to replace C++Builder's notoriously sluggish and buggy _CodeInsight_ by
 something completely independant written from scratch.
@@ -20,7 +22,6 @@ Maybe **you** are the one completing it or writing another extension for C++Buil
 the sources would help you as well.
 
 Have fun with this code and make something usable of it, but keep in mind that this while thing isn't
-even in _Alpha_ state and that I **won't invest any time in it any further**.
+even in _Alpha_ state and that I definitely **won't invest time in it any further**.
 
-
-
+🍺 Cheers!!
