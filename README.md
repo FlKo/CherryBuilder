@@ -31,6 +31,6 @@ even in an _Alpha_ state and that I definitely **won't invest time in it any fur
 
 🍺 Cheers!!
 
-Note:CherryBuilder borrows some icons from [Visual Studio Code](https://github.com/Microsoft/vscode)
+Note: CherryBuilder borrows some icons from [Visual Studio Code](https://github.com/Microsoft/vscode)
 which is also available under the MIT license.
 
