@@ -17,8 +17,11 @@ Originally I had planned to finish the development some day and offer this as a 
 also the reason why each invocation of _Ctags_ is done by running it's compiled executable: To
 comply with it's GPL licensing terms while keeping me the possibility of monetizing CherryBuilder.
 
+You can also take a look at [this explanation video on YouTube](https://www.youtube.com/watch?v=SsiCn9NCC0o)
+I made for some promotional aspects.
+
 The sources and compiled binaries of the version of _Universal Ctags_ used with CherryBuilder are
-also available in this respository.
+also available in this repository.
  
 For various reasons, I can't and will not pursue this project any further and therefore release it
 in it's current **unfinished** state under the MIT license for everyone interested in it.
