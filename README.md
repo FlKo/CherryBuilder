@@ -29,7 +29,7 @@ in it's current **unfinished** state under the MIT license for everyone interest
 Maybe **you** are the one who completes it or writes another extension for C++Builder or RAD Studio
 where the sources may help you, too.
 
-Have fun with the code and make something usable of it, but keep in mind that the whole thing isn't
+Have fun with the code and make something useful of it, but keep in mind that the whole thing isn't
 even in an _Alpha_ state and that I definitely **won't invest time in it any further**.
 
 🍺 Cheers!!
