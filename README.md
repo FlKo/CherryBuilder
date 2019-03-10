@@ -15,7 +15,7 @@ engine with something completely independent written with C++Builder 10.2 _Tokyo
 
 Originally I had planned to finish the development some day and offer this as a paid plugin. This is
 also the reason why each invocation of _Ctags_ is done by running it's compiled executable: To
-comply with it's GPL licensing terms while keeping me the possibility of monetizing CherryBuilder.
+comply with it's GPL licensing terms while retaining the possibility of monetizing CherryBuilder.
 
 You can also take a look at [this explanation video on YouTube](https://www.youtube.com/watch?v=SsiCn9NCC0o)
 I made for some promotional aspects.
